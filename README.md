@@ -42,7 +42,7 @@ The first time you should run
 ## Usage
 
 Running
-  ```sh
+  ```
             _    _               _
            | |  | |             | |
  ___  __ _| | _| | _____  _   _| | __ _ ___
